@@ -1,0 +1,25 @@
+{
+  "contact": [
+    {
+      "name": "Priti",
+      "email": "priti@yahoo.com",
+      "phonenumber": "09158077045",
+      "details": "Doctor",
+      "id": 4
+    },
+    {
+      "name": "Naisha",
+      "email": "naisha@gmail.com",
+      "phonenumber": "11111",
+      "details": "student",
+      "id": 5
+    },
+    {
+      "name": "Ojaswi",
+      "email": "ojaswi@gmail.com",
+      "phonenumber": "09405154160",
+      "details": "2y student",
+      "id": 6
+    }
+  ]
+}
